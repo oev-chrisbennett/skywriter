@@ -28,7 +28,8 @@
     "javascript": {
         "formatter": {
             "quoteStyle": "single",
-            "semicolons": "asNeeded"
+            "semicolons": "asNeeded",
+            "trailingCommas": "es5"
         }
     },
     "json": {
