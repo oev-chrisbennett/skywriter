@@ -5,12 +5,12 @@
         "deploy": "wrangler deploy --minify"
     },
     "dependencies": {
-        "@atproto/api": "^0.13.17",
-        "hono": "^4.6.11"
+        "@atproto/api": "^0.15.9",
+        "hono": "^4.7.10"
     },
     "devDependencies": {
         "@biomejs/biome": "1.9.4",
-        "@cloudflare/workers-types": "^4.20241112.0",
-        "wrangler": "^3.90.0"
+        "@cloudflare/workers-types": "^4.20250525.0",
+        "wrangler": "^4.16.1"
     }
 }
